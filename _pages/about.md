@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Prithviraj</strong> Sukale
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
