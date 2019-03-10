@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Hello world
+date: 2015-05-15 21:01:00
+description: First post!
+---
+
+{% highlight ruby %} 
+  puts "Hello world!"
+{% endhighlight %}
+
+It is March of 2019 and I have decided to get about blogging.
+My aim is to write at least one post a week. I am plannig to write about 
+a wide verity of topics. Let's see how it goes.
